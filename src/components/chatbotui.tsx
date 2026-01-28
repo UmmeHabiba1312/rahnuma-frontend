@@ -84,7 +84,7 @@ export default function RahnumaChatbot() {
 
       {/* Footer */}
       <footer className="text-gray-500 text-sm mt-4">
-        Built by <span className="text-blue-700 font-semibold">Umm E Habiba</span>
+        Built by <span className="text-blue-700 font-semibold">Umm-E-Habiba</span>
       </footer>
     </div>
   );
